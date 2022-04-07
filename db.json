@@ -33,15 +33,26 @@
             "privilege": 1
         },
         {
-            "nomUsager": "Pag",
+            "nomUsager": "Paul-Antoine",
             "password": "12345678",
             "email": "pag@blog-test.com",
             "privilege": 2
         },
         {
-            "nomUsager": "Cath",
+            "nomUsager": "Catherine",
             "password": "12345678",
             "email": "Cath@blog-test.com",
+            "privilege": 2
+        },
+        {
+            "nomUsager": "Laurence",
+            "password": "12345678",
+            "email": "laurence@blog-test.com",
+            "privilege": 2
+        },        {
+            "nomUsager": "Patrice",
+            "password": "12345678",
+            "email": "patrice@blog-test.com",
             "privilege": 2
         }
     ]

@@ -31,6 +31,18 @@
             "password": "12345678",
             "email": "admin@blog-test.com",
             "privilege": 1
+        },
+        {
+            "nomUsager": "Pag",
+            "password": "12345678",
+            "email": "pag@blog-test.com",
+            "privilege": 2
+        },
+        {
+            "nomUsager": "Cath",
+            "password": "12345678",
+            "email": "Cath@blog-test.com",
+            "privilege": 2
         }
     ]
   }

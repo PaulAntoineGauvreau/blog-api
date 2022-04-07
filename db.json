@@ -24,5 +24,15 @@
         "auteur": "Ti Gars",
         "id": 6
       }
+    ],
+    "users": [
+        {
+            "nomUsager": "admin",
+            "password": "12345678",
+            "email": "admin@blog-test.com",
+            "privilege": 1
+        }
     ]
   }
+
+  

@@ -1,33 +1,35 @@
 {
     "blogs": [
       {
-        "titre": "Le Flan",
-        "text": "I'm baby tofu readymade adaptogen, dreamcatcher pop-up copper mug master cleanse brooklyn tousled chambray. Craft beer schlitz freegan chambray, pickled kitsch YOLO man braid. Chia kale chips actually tote bag vaporware. Four loko tbh pabst yr kickstarter literally deep v, banjo truffaut distillery cloud bread fingerstache bicycle rights jianbing .",
-        "auteur": "Patrice",
-        "id": 4,
-        "image": "blog/n6xncqte6zkmtduc8eos.jpg"
-      },
-      {
-        "titre": "Gravel Bike",
-        "text": "Lomo viral occupy actually hexagon YOLO letterpress edison bulb. PBR&B succulents green juice man braid portland shoreditch hella leggings kinfolk fixie biodiesel ennui bespoke. Mustache coloring book photo booth chicharrones. Try-hard hexagon cardigan kombucha, umami prism beard lomo tousled health goth mustache distillery bitters. Locavore keytar polaroid bitters tattooed ethical trust fund microdosing raclette. Wolf portland pug kombucha tofu, whatever narwhal banjo twee asymmetrical chartreuse subway tile mustache microdosing. Gastropub adaptogen +1 food truck vice bitters, pok pok thundercats pop-up kickstarter.",
-        "auteur": "Patrice",
-        "id": 3,
-        "image": "blog/isw8zqhvjkgfggltxdj9.jpg"
-      },
-      {
         "titre": "Claude écrit",
         "text": "Adaptogen selvage cornhole, try-hard truffaut tofu leggings sartorial man bun. Paleo knausgaard food truck viral schlitz try-hard celiac wolf kogi hexagon pour-over VHS. Post-ironic brunch 90's jianbing, +1 pitchfork williamsburg cornhole glossier echo park occupy letterpress DIY gluten-free. Raw denim flexitarian crucifix man braid four dollar toast tofu chartreuse bespoke narwhal air plant. Wayfarers occupy tattooed chartreuse sustainable.\n\nPalo santo fingerstache air plant church-key williamsburg drinking vinegar, roof party semiotics chia four dollar toast poke gastropub humblebrag post-ironic mlkshk. Squid semiotics authentic letterpress. Single-origin coffee chicharrones fam polaroid, blue bottle taiyaki paleo microdosing stumptown poutine banh mi neutra wayfarers drinking vinegar pabst. Etsy sustainable pop-up, copper mug skateboard DIY marfa iceland street art celiac shaman cronut.",
         "auteur": "Patrice",
-        "id": 4,
+        "id": 1,
         "image": "blog/PAG_side.jpg"
       },
       {
         "titre": "Un texte ",
         "text": "Mlkshk vaporware taxidermy retro, vice YOLO raw denim polaroid glossier viral kombucha bushwick farm-to-table. Vegan shabby chic migas, stumptown kombucha marfa pitchfork hexagon palo santo cloud bread single-origin coffee meh butcher artisan copper mug. Authentic raclette copper mug fanny pack you probably haven't heard of them meh narwhal cred cronut kitsch beard retro deep v air plant put a bird on it. Photo booth semiotics chambray migas pug 90's paleo tote bag aesthetic farm-to-table meditation listicle.",
         "auteur": "Patrice",
-        "id": 1,
+        "id": 2,
         "image": "blog/PAG_side.jpg"
-      }
+      },
+      {
+        "titre": "Le Flan",
+        "text": "I'm baby tofu readymade adaptogen, dreamcatcher pop-up copper mug master cleanse brooklyn tousled chambray. Craft beer schlitz freegan chambray, pickled kitsch YOLO man braid. Chia kale chips actually tote bag vaporware. Four loko tbh pabst yr kickstarter literally deep v, banjo truffaut distillery cloud bread fingerstache bicycle rights jianbing .",
+        "auteur": "Patrice",
+        "id": 3,
+        "image": "blog/n6xncqte6zkmtduc8eos.jpg"
+      },
+      {
+        "titre": "Gravel Bike",
+        "text": "Lomo viral occupy actually hexagon YOLO letterpress edison bulb. PBR&B succulents green juice man braid portland shoreditch hella leggings kinfolk fixie biodiesel ennui bespoke. Mustache coloring book photo booth chicharrones. Try-hard hexagon cardigan kombucha, umami prism beard lomo tousled health goth mustache distillery bitters. Locavore keytar polaroid bitters tattooed ethical trust fund microdosing raclette. Wolf portland pug kombucha tofu, whatever narwhal banjo twee asymmetrical chartreuse subway tile mustache microdosing. Gastropub adaptogen +1 food truck vice bitters, pok pok thundercats pop-up kickstarter.",
+        "auteur": "Patrice",
+        "id": 4,
+        "image": "blog/isw8zqhvjkgfggltxdj9.jpg"
+      },
+
+
     ],
     "users": [
         {
